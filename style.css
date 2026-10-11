@@ -1,0 +1,62 @@
+header {
+background-color: #234e70;
+color: #ffffff;
+text-align: center;
+padding: 20px;
+}
+
+nav {
+background-color: #dbeafe;
+text-align: center;
+padding: 15px;
+}
+
+nav a {
+color: #234e70;
+margin: 15px;
+text-decoration: none;
+}
+
+main {
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+background-color: #ffffff;
+padding: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+section {
+padding: 20px;
+text-align: center;
+}
+
+.mavi {
+color: #0000ff;
+}
+
+article {
+width: 80%;
+background-color: #f1f5f9;
+padding: 15px;
+margin: 20px auto 20px auto;
+text-align: left;
+}
+
+article img {
+width: 70%;
+}
+
+section ol {
+background-color: #dbeafe;
+padding: 15px;
+margin-top: 20px;
+}
+
+footer {
+background-color: #234e70;
+color: #ffffff;
+text-align: center;
+padding: 15px;
+}
